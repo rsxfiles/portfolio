@@ -1,6 +1,6 @@
 # Dev Portfolio
 
-This repo contains an personal portfolio that was created with template. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static. The site was built as modular as possible to make it easy to shift around styles and content.
+This repo contains an personal portfolio that was created from template (https://github.com/RyanFitzgerald/devportfolio). It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static. The site was built as modular as possible to make it easy to shift around styles and content.
 
 ## Features
 
@@ -9,10 +9,6 @@ This repo contains an personal portfolio that was created with template. It is l
 
 ## Contents
 
-- [Setup and Configuration](#setup-and-configuration)
-    - [Making Edits / Customizing the Template](#making-edits--customizing-the-template)
-    - [Using the Template As Is](#using-the-template-as-is)
-- [Customization and Editing](#customization-and-editing)
     - [General](#general)
     - [Images](#images)
     - [Header Section](#header-section)
