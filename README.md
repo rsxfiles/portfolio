@@ -9,6 +9,7 @@ This repo contains an personal portfolio that was created from template (https:/
 
 ## Contents
 
+- [Customization and Editing](#customization-and-editing)
     - [General](#general)
     - [Images](#images)
     - [Header Section](#header-section)
