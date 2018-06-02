@@ -11,7 +11,6 @@ This repo contains an personal portfolio that was created from template (https:/
 
 - [Structure]
     - [General](#general)
-    - [Images](#images)
     - [Header Section](#header-section)
     - [Lead Section](#lead-section)
     - [About Section](#about-section)
@@ -21,7 +20,7 @@ This repo contains an personal portfolio that was created from template (https:/
     - [Skills Section](#skills-section)
     - [Contact Section](#contact-section)
     - [Footer Section](#footer-section)
-    - [Optional Sections](#optional-sections)
+
 
 ### General
 
@@ -202,33 +201,3 @@ For a quick tutorial about formspree, check out this [tutsplus tutorial](https:/
 
 The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
 
-### Optional Sections
-
-The template comes with an optional section that can be added to the page markup to list things like Certifications, Hobbies, and more (Note: these are not included by default). The markup for the additional optional section is as follows:
-
-```HTML
-<div class="optional-section background-alt">
-    <h2 class="heading">Section Name</h2>
-
-    <div class="optional-section-block">
-        <h3>Some content title</h3>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
-        </p>
-        <ul>
-            <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </li>
-            <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </li>
-            <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </li>
-        </ul>
-    </div>
-    <!-- End .optional-section-block -->
-
-</div>
-<!-- End .optional-section -->
-```
