@@ -25,5 +25,18 @@ function hideError(){
 	jQuery("span#aboutme_error").hide();
 }
 
+// Background Slideshow Images
+    
+$.backstretch([
+  "images/lead-bg01.jpg",
+  "images/lead-bg02.jpg",
+  "images/lead-bg02.jpg",
+  "images/lead-bg03.jpg",
+  "images/lead-bg04.jpg"
+  ], {
+    fade: 750,
+    duration: 4000
+});
+ 
 
 
