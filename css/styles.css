@@ -86,7 +86,7 @@ header.sticky{position:fixed;z-index:999}
 #skills{padding:50px 15px;text-align:center}
 #skills h2{color:#fff;margin-bottom:50px}
 #skills ul{display:block;margin:0 auto;padding:0;max-width:800px}
-#skills li{display:inline-block;margin:7px;padding:5px 10px;color:#374054;background:#e4e4ea;list-style:none;cursor:default;font-size:1.2em}
+#skills li{display:inline-block;margin:7px;padding:5px 10px;color:#374054;background:#e4e4ea;list-style:none;cursor:default;font-size:1.2em; border-radius:4px;}
 #contact{padding:50px 15px;background:rgba(73, 157, 212, 0.14);text-align:center}
 #contact h2{margin:0 0 15px 0;color:#fff;font-weight:500}
 #contact-form{max-width:500px;margin:0 auto}
