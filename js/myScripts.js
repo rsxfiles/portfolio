@@ -34,7 +34,7 @@ $.backstretch([
   "images/lead-bg03.jpg",
   "images/lead-bg04.jpg"
   ], {
-    fade: 750,
+    fade: 2000,
     duration: 4000
 });
  
