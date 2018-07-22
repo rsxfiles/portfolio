@@ -1,6 +1,6 @@
 # Dev Portfolio
 
-This repo contains an personal portfolio that was created from template (https://github.com/RyanFitzgerald/devportfolio). It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static. The site was built as modular as possible to make it easy to shift around styles and content.
+This project contains an personal portfolio. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static. The site was built as modular as possible to make it easy to shift around styles and content.
 
 ## Features
 
@@ -38,25 +38,11 @@ If you wish to add a header link to an external page, simply add the class `no-s
 </li>
 ```
 
-If you wish to have a sticky (fixed) header, you simply need to add a class of `sticky` to the main header. For example, that would be accomplished as follows:
-
-```HTML
-<header class="sticky">
-    <!-- Header content -->
-</header>
-```
-
 ### Lead Section
 
-The Lead section is pretty straightforward, it contains an h1 for your name and an h2 for your title. It also contains a link that can be used to link to your resume should you wish to add it as well.
+The Lead section is pretty straightforward, it contains an h1 with the name and an h2 for the title. It also contains a link my resume.
 
-If you want your resume to automatically download when the button is clicked instead of opening up in another tab (the default behaviour), add the following code (Thanks to jkfran for the suggestion) in the lead:
-
-```HTML
-<a href="path/to/resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a>
-```
-
-The href attribute points to where your resume is stored and the download attribute is what triggers the download / provides the name the file will be downloaded as when the user clicks the button (In this case, it will download as resume.pdf).
+It automatically download the resume when the button is clicked instead of opening up in another tab 
 
 ### About Section
 
@@ -191,11 +177,7 @@ var link = "mailto:edgarquesada85@gmail.com"
              + "&subject=" + escape("Contact request from personal website")
              + "&body=" + escape(document.getElementById('message').value);
 ```
-For more information on configuration of the contact form or dealing with errors, check out [Formspree](https://formspree.io/).
-
-For a quick tutorial about formspree, check out this [tutsplus tutorial](https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870) that covers different aspects and features of the form tool.
-
 ### Footer Section
 
-The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
+The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and LinkedIn. 
 
